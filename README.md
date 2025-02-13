@@ -7,7 +7,6 @@ A fast and efficient command-line tool for canonicalizing SMILES (Simplified Mol
 - Canonicalize single SMILES strings or entire files
 - Parallel processing support for faster batch operations
 - Flexible output options (file or stdout)
-- Automatic output file naming
 
 ## Usage
 
